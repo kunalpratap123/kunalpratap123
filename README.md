@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunalpratap123
+- 👋 Hi, I’m kunal pratap
 - 🌱 I’m currently learning DATA ANALYST
 
 
